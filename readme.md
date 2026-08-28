@@ -10,7 +10,8 @@ Ich Würde Gerne mein eigenes kleines Spiel Programmieren. Es sollte nicht zu gr
 
 ## 28.8.2026
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mit meinem Zahlen Guesser angefangen. Ich bin noch nicht sehr weit, aber ich habe es schon geschafft das es schon eine zufällige zahl von 1 bis 100 generiert und sagt. Ich habe die Grundlagen jetzt eigentlich komplett gelernt und habe sie jetzt hier angewendet. 
+Beim nächsten mal will ich das es dann die Nummer versteckt und man dann erraten muss was es ist und es dir auch hinweise gibt ob es niedriger oder höher ist.
 
 ## 6.9.2026
 
