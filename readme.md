@@ -14,10 +14,14 @@ Heute habe ich mit meinem Zahlen Guesser angefangen. Ich bin noch nicht sehr wei
 Beim nächsten mal will ich das es dann die Nummer versteckt und man dann erraten muss was es ist und es dir auch hinweise gibt ob es niedriger oder höher ist.
 
 ## 4.9.2026
+- [ ] Ich will das man die Nummer erraten muss.
+- [ ] Ich will das es die Versuche Zählt und man nicht unendlich hat.
+- [ ] Ich will das die Zahl nicht einfach gezeigt wird.
+      
+Ich bin heute viel weiter gekommen. Im Spiel wird kann man schon die Zahl erraten und man hat nur 10 versuche. Es wird angezeigt wie viele versuche man noch hat und einen Titel hab ich Programmiert. Es kommt auch noch eine Begrüssung und es fragt nach dem Namen. Ich bin sehr zufrieden mit meiner Leistung und hoffe das ich nächstesmal auch so gut arbeite. 
+
+## 11.9.2026
 - [ ] Ich will das es verschiedene Schwierigkeitsgrade hat und man in einer grösseren Zahlspanne erraten muss.  
 - [ ] Bei den Schwierigkeiten will ich auch machen das man noch mehr versuche hat.  
 - [ ] Ich will noch machen das es auch noch vielicht dezimalzahlen hat.
 - [ ] Ich will auch eine Nochmal-Spielen Funktion entwickeln.
-
-Ich bin heute viel weiter gekommen. Im Spiel wird kann man schon die Zahl erraten und man hat nur 10 versuche. Es wird angezeigt wie viele versuche man noch hat und einen Titel hab ich Programmiert. Es kommt auch noch eine Begrüssung und es fragt nach dem Namen. Ich bin sehr zufrieden mit meiner Leistung und hoffe das ich nächstesmal auch so gut arbeite. 
-
