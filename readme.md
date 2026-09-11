@@ -26,9 +26,12 @@ Ich bin heute viel weiter gekommen. Im Spiel wird kann man schon die Zahl errate
 - [X] Ich will noch machen das es nicht abstürtzt bei falschen Zeichen.
 - [X] Ich will auch eine Hardcore Funktion entwickeln.
 
+Ich konnte alle Meine Ziele erreichen und hab jetzt schon ein gutes Guess spiel. Es hat jetzt 4 Schwierigkeitsgrade. Einfach, Mittel, Schwer und Hardcore. Bei Einfach Ist 1-100, Bei Mittel 1-500, bei Schwer 1-1000 und Hardcore 1-100 aber nur 1 Versuch. 
 
 
 
-## 18.9.2026
+
+## 18.9.2026 
+
 
 
