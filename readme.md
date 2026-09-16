@@ -32,8 +32,9 @@ Ich konnte alle Meine Ziele erreichen und hab jetzt schon ein gutes Guess spiel.
 
 
 ## 18.9.2026 
-- [ ] Ich will das es eine Nochmal spielen Option hat.
+- [ ] Ich will das es eine Nochmal Spielen Option hat.
 - [ ] Ich will das die Seite Einwenig schöner aussieht.
-- [ ] Ich will 
+- [ ] Ich will noch zusätzlich zu der Nochmal Spielen Option eine Highscore Liste bauen die dir dein Spiel mit den wenigsten Versuchen anzeigt.
+- [ ] Ich will bauen das es nicht nur zu tief/hoch sagt sondern auch nahe dran und weit weg.
  
 
