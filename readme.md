@@ -6,7 +6,8 @@
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 2. Was wäre ein geeignetes Projekt für diese LP1?
-Ich Würde Gerne mein eigenes kleines Spiel Programmieren. Es sollte nicht zu gross sein aber trotzdem, was an dem ich arbeiten kann. Es ist was was mich fordert aber auch sehr spass macht. Ein Würfel/Choser spiel so wie eine art Randomiser. 
+
+Ich Würde Gerne mein eigenes kleines Spiel Programmieren. Es sollte nicht zu gross sein aber trotzdem, was an dem ich arbeiten kann. Es ist was was mich fordert aber auch sehr spass macht. Ein Zahlenguesser. 
 
 ## 28.8.2026
 
