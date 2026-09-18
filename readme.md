@@ -27,7 +27,7 @@ Beim nächsten mal will ich das es dann die Nummer versteckt und man dann errate
 
 Ich bin heute viel weiter gekommen. Im Spiel wird kann man schon die Zahl erraten und man hat nur 10 versuche. Es wird angezeigt wie viele versuche man noch hat und einen Titel hab ich Programmiert. Es kommt auch noch eine Begrüssung und es fragt nach dem Namen. Ich bin sehr zufrieden mit meiner Leistung und hoffe das ich nächstesmal auch so gut arbeite. 
 
-## 11.9.2026
+## 11.9.2026 
 - [X] Ich will das es verschiedene Schwierigkeitsgrade hat und man in einer grösseren Zahlspanne erraten muss.  
 - [X] Bei den Schwierigkeiten will ich auch machen das man noch weniger Versuche haben kann.  
 - [X] Ich will noch machen das es nicht abstürtzt bei falschen Zeichen.
