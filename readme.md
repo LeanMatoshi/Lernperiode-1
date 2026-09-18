@@ -40,3 +40,8 @@ Ich konnte alle Meine Ziele erreichen und hab jetzt schon ein gutes Guess spiel.
 
 Heute war ein guter Tag. Ich konnte meine Ziele erfüllen und mein Spiel wurde besser. In Man kann jetzt nochmal spielen wenn man Fertig ist und es sieht optisch etwas besser aus und übersichtlicher.
 
+## Erklärung des Codes
+Man wird Begrüsst und dann fängt das Spiel schon an. Man kann zwischen 4 Verschiedenen Schwierigkeitsgrade auswählen. Einfach, Normal, Schwer und Hardcore. In Einfach man muss eine Zahl von 1-100 wählen. Bei Normal ist es von 1-500 und bei Schwer 1-1000. Man hat 10 Versuche, ausser bei Hardcore, da hat man zwar 1-100 aber nur 1 Versuch. Wenn man Fertig ist kann man noch ein Spiel starten.
+<img width="954" height="562" alt="image" src="https://github.com/user-attachments/assets/8d4d6d3f-7b53-4a27-89ba-c22a7c85d5c6" /> 
+
+
