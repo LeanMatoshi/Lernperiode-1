@@ -2,9 +2,10 @@
  ## Zusammenfassung des Projektes
 Man wird Begrüsst und dann fängt das Spiel schon an. Man kann zwischen 4 Verschiedenen Schwierigkeitsgrade auswählen. Einfach, Normal, Schwer und Hardcore. In Einfach man muss eine Zahl von 1-100 wählen. Bei Normal ist es von 1-500 und bei Schwer 1-1000. Man hat 10 Versuche, ausser bei Hardcore, da hat man zwar 1-100 aber nur 1 Versuch. Wenn man Fertig ist kann man noch ein Spiel starten. Es zeigt auch immer an wie viele Versuche man noch übrig hat.
 <img width="954" height="562" alt="image" src="https://github.com/user-attachments/assets/8d4d6d3f-7b53-4a27-89ba-c22a7c85d5c6" /> 
+## Reflexion  
+Ich habe im allgemeinen finde ich gut gearbeitet. Ich war aber trotzdem zu oft ein wenig nicht Konzentriert. Wenn ich was mal nicht wusste wie es geht habe ich manchmal einfach gar nichts gemacht statt eine Lösung zu suchen. Aber sonst lief es ziemlich gut. Wenn es Ein Problem gab habe ich es so schnell wie Möglich probiert zu lösen. Am Anfang fand ich es ein wenig schwer und Nervig aber mit der Zeit wurde es besser und es hat mir dann sogar spass gemacht. Ich habe mich dann sogar gefreut wenn ich wieder an meinem Projekt arbieten konnte und bin sehr zufrieden mit dem Resultat. Ich freue mich auf die nächsten Projekte.
 
-
-28.8 bis ?
+28.8 bis 18.9
 
 ## Grob-Planung
 
