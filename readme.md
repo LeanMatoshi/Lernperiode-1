@@ -34,4 +34,6 @@ Ich konnte alle Meine Ziele erreichen und hab jetzt schon ein gutes Guess spiel.
 ## 18.9.2026 
 - [x] Ich will das es eine Nochmal Spielen Option hat.
 - [x] Ich will das die Seite Einwenig schöner aussieht.
+- [x] Ich will das es nicht das es immer 10 versuche anzeigt, obwohl man weniger hat.
+Heute war ein guter Tag. Ich konnte meine Ziele erfüllen und mein Spiel wurde besser. In Man kann jetzt nochmal spielen wenn man Fertig ist und es sieht optisch etwas besser aus und übersichtlicher.
 
