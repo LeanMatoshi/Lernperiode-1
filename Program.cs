@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Willkommen zum Zahlenraten-Spiel!");
-Console.WriteLine("Wie heisst du?");
+Console.WriteLine("Wie heisst du?");             
 string name = Console.ReadLine();
 Console.WriteLine("Hallo " + name + "!");
 
