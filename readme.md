@@ -18,6 +18,7 @@ Beim nächsten mal will ich das es dann die Nummer versteckt und man dann errate
 - [X] Ich will das es die Versuche Zählt und man nicht unendlich hat.
 - [X] Ich will das die Zahl nicht einfach gezeigt wird.
       
+
 Ich bin heute viel weiter gekommen. Im Spiel wird kann man schon die Zahl erraten und man hat nur 10 versuche. Es wird angezeigt wie viele versuche man noch hat und einen Titel hab ich Programmiert. Es kommt auch noch eine Begrüssung und es fragt nach dem Namen. Ich bin sehr zufrieden mit meiner Leistung und hoffe das ich nächstesmal auch so gut arbeite. 
 
 ## 11.9.2026
@@ -35,5 +36,6 @@ Ich konnte alle Meine Ziele erreichen und hab jetzt schon ein gutes Guess spiel.
 - [x] Ich will das es eine Nochmal Spielen Option hat.
 - [x] Ich will das die Seite Einwenig schöner aussieht.
 - [x] Ich will das es nicht das es immer 10 versuche anzeigt, obwohl man weniger hat.
+
 Heute war ein guter Tag. Ich konnte meine Ziele erfüllen und mein Spiel wurde besser. In Man kann jetzt nochmal spielen wenn man Fertig ist und es sieht optisch etwas besser aus und übersichtlicher.
 
